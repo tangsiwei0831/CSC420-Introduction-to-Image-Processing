@@ -1,1 +1,1 @@
-# CSC420---Introduction-to-Image-Processing
+# CSC420-Introduction-to-Image-Processing
